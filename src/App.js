@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello DevOps!
+          I've got this rubber chicken with a pulley in the middle
         </a>
       </header>
     </div>
